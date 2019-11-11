@@ -5,7 +5,6 @@ public class Main {
 
         int AllPurchase = 0;
         int CurrentPurchase = 0;
-        int StandartLevel = 1;
         int SilverLevel = 15000;
         int GoldLevel = 150000;
 
